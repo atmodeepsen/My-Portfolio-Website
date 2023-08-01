@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20230519T112450Z
+UID:calendly-717864867
+DTSTART:20230520T113000Z
+DTEND:20230520T114500Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Career Coaching & Counselling\nEvent Description: I
+ n this free 15-minute call\, I would like you to share your career-related
+  concerns & confusion\, and understand how I can help you achieve your car
+ eer goals.\nDate & Time: 05:00pm - 05:15pm (India Standard Time) on Saturd
+ ay\, May 20\, 2023\nLocation: This is a Google Meet web conference.\nYou c
+ an join this meeting from your computer\, tablet\, or smartphone.\nhttps:/
+ /calendly.com/events/8213a77c-6b67-4dc8-8799-04e3422cd821/google_meet\n\nP
+ hone Number: +91 97971 45990\n\nAre you a school student\, a college stude
+ nt or a working professional?: was working\, need to switch\n\nIf you are 
+ a school student\, please mention which standard you are in?: College grad
+ uate \n\nIf you are a school student\, please mention which school board y
+ ou belong to?: CBSE\n\nIf you are a student of 11th or 12th standard\, ple
+ ase mention which stream you have chosen?: Science\n\nIf you are a college
+  student or a graduate\, please mention the course/degree you are pursuing
+ /have pursued\, and from which institution?: B.Tech in Automobile Engineer
+ ing \n\nIf you are a working professional\, do you need help with Career A
+ dvancement/Development OR Career Switch/Change?\n\n: Career Switch/Change?
+ \n\nNeed to make changes to this event?\nCancel: https://calendly.com/canc
+ ellations/ab577c51-dd89-4d8b-bcc6-d68459b25918\nReschedule: https://calend
+ ly.com/reschedulings/ab577c51-dd89-4d8b-bcc6-d68459b25918\n
+LOCATION:Google Meet (instructions in description)
+SUMMARY:Career Coaching & Counselling with Nishant Sarawgi
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
